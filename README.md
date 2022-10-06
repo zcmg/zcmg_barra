@@ -1,8 +1,9 @@
 **FiveM Script**
 
-<img src="https://media.discordapp.net/attachments/859508698879885312/1027692849652842496/ezgif.com-gif-maker.gif" />
+<img src="https://media.discordapp.net/attachments/859508698879885312/1027692849652842496/ezgif.com-gif-maker.gif" /></br>
 
-<img src="https://cdn.discordapp.com/attachments/859508698879885312/954192451642470430/ezgif-5-4b862f5a4c.gif" />
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88593228/194426481-2ca7ef2e-132c-44cc-b485-363bfcec64ab.gif)
+
 
 Sistema de barra de progresso
 
@@ -14,9 +15,9 @@ Desenvolvido por: **zcmg#5307**
 exports['zcmg_barra']:Iniciar(Tempo, "Texto", Tempo_ON/OFF)
 
 **Variaveis:**</br>
-Tempo: Tempo de exibição da barra (valor em milissegundos (ms)) </br>
-Texto: Texto que aparece na barra de progresso</br>
-Tempo_ON/OFF:  true/false</br>
+**Tempo:** Tempo de exibição da barra (valor em milissegundos (ms)) </br>
+**Texto:** Texto que aparece na barra de progresso</br>
+**Tempo_ON/OFF:**  true/false</br>
 - true</br>
 - false</br>
 
