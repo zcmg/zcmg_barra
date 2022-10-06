@@ -1,9 +1,6 @@
 **FiveM Script**
 
-<img src="https://media.discordapp.net/attachments/859508698879885312/1027692849652842496/ezgif.com-gif-maker.gif" /></br>
-
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88593228/194426481-2ca7ef2e-132c-44cc-b485-363bfcec64ab.gif)
-
 
 Sistema de barra de progresso
 
