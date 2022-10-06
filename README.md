@@ -6,7 +6,7 @@ Sistema de barra de progresso
 
 Desenvolvido por: **zcmg#5307**
 
-##Como usar
+## Como usar
 
 **Ficheiros client:**</br>
 exports['zcmg_barra']:Iniciar(Tempo, "Texto", Tempo_ON/OFF)
@@ -19,7 +19,7 @@ Tempo_ON/OFF:  true/false</br>
 - false</br>
 
 
-##Exemplos
+## Exemplos
 
 
 
